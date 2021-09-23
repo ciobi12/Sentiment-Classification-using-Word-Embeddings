@@ -1,6 +1,6 @@
 # Sentiment-Classification-using-Word-Embeddings
 
-Using Deep Learning techniques, I implemented a system that tries to classify the sentiment based on a person's movie review. Here, sentiments are labeled as 1: the person likes the movie and 0: the person doesn't like the movie. When testing the network, it assigns a number from 0 to 1 to the predicted reviews. 
+Using Deep Learning techniques, I implemented a system that tries to classify the sentiment based on a person's movie review. Here, sentiments are labeled as 1: the person likes the movie and 0: the person doesn't like the movie. When testing the network, it assigns a number from 0 to 1 to the predicted sentiments, given the corresponding reviews. 
 
 ***
 
